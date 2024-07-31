@@ -32,6 +32,7 @@ src="https://img.shields.io/github/followers/mbhagwan?logo=github&style=for-the-
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" /></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line-wordmark.svg" width="36" height="36" alt="pandas" /></a>
 </p>
 
 ### Socials
