@@ -11,7 +11,7 @@ I'm a life-long learner and love working with data!
 * ✉️  You can contact me at [mrlbhagwan@gmail.com](mailto:mrlbhagwan@gmail.com)
 * 🧠  I'm learning to take my data analytics and visualization skills to the next level!
 * ⚡  When I'm not diving into data, I like keeping fit, getting lost in a good book,  
-or leveling up my life with self-improvement!
+      or leveling up my life with self-improvement!
 
 <a href="https://www.github.com/mbhagwan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mbhagwan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
