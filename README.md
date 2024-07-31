@@ -37,6 +37,11 @@ src="https://img.shields.io/github/followers/mbhagwan?logo=github&style=for-the-
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" /></a>
 </p>
 
+<p align="left"> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="jupyter" /></a>
+</p>
+
 
 ### Socials
 
