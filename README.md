@@ -10,7 +10,7 @@ I'm a life-long learner and love working with data!
 * 🖥️  See my portfolio at [https://mbhagwan.github.io](http://mbhagwan.github.io)
 * ✉️  You can contact me at [mrlbhagwan@gmail.com](mailto:mrlbhagwan@gmail.com)
 * 🧠  I'm learning to take my data analytics and visualization skills to the next level!
-* ⚡  Beyond diving into data, you'll find me staying active, immersed in captivating books, or always chasing new opportunities for personal growth!
+* ⚡  Beyond diving into data, you'll find me staying active, immersed in captivating books, <br> or always chasing new opportunities for personal growth!
 
 <a href="https://www.github.com/mbhagwan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mbhagwan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
