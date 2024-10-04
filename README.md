@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Professional
 ------------
 
-I'm a life-long learner and love working with data!
+I'm passionate about lifelong learning and thrive on uncovering insights through data!
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [https://mbhagwan.github.io](http://mbhagwan.github.io)
