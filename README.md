@@ -10,7 +10,7 @@ I'm passionate about lifelong learning and thrive on uncovering insights through
 * 🖥️  Explore my portfolio: [https://mbhagwan.github.io](http://mbhagwan.github.io)
 * ✉️  Get in touch: [mrlbhagwan@gmail.com](mailto:mrlbhagwan@gmail.com)
 * 🧠  Continuously elevating my data analytics & visualization skills – always striving for <br> deeper insights and smarter solutions.
-* ⚡  When I’m not analyzing data, you'll catch me staying active, diving into captivating books, or <br> exploring new avenues for personal and professional growth. Let's connect and create something amazing together!
+* ⚡  When I’m not analyzing data, you'll catch me staying active, diving into captivating books, or <br> exploring new avenues for personal and professional growth. <br> Let's connect and create something amazing together!
 
 <a href="https://www.github.com/mbhagwan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mbhagwan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
